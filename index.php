@@ -65,7 +65,7 @@ $arr = [
 ];
 
 $counter = 0;
-
+// JOPA
 if(!empty($LOGIN)){
     for($i = 0; $i<count($arr); $i++){ 
 
